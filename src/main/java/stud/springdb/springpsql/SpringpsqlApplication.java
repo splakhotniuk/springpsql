@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringpsqlApplication {
 
 	public static void main(String[] args) {
+		// System.out.println("STARTED !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		SpringApplication.run(SpringpsqlApplication.class, args);
 	}
 
